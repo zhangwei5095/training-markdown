@@ -112,7 +112,7 @@ MardDown语法教程
 
 > 演示使用
 
-![演示图片](../images/1.jpg)
+![演示图片](./images/1.jpg)
 
 
 
