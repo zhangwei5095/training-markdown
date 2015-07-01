@@ -106,6 +106,16 @@ MardDown语法教程
     这是要插入的代码Java Code
 
 
+## 演示使用github中图片
+
+ - GitHub图片使用
+
+> 演示使用
+
+![演示图片](../1.jpg)
+
+
+
 常用的就这些，谢谢
 
 [MarkDown在线编辑器](https://stackedit.io/editor)
